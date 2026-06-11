@@ -18,12 +18,12 @@ Currently, I am actively building AI-assisted automation tooling applicable to e
 ### 🛠️ Core Competencies
 
 - **Modern Device Management:** Microsoft Intune, MECM/SCCM, JAMF Pro, Meraki MDM, Nutanix AHV, Windows Autopilot, Co-management
-- **Identity & Access:** Entra ID (Azure AD), Conditional Access, MFA Enforcement, Hybrid & Cloud-Native AAD Join, Application Proxy, Windows Hello for Business
-- **Endpoint Security:** Endpoint Security Policies, EDR Integration (Cortex XDR), Attack Surface Reduction, Device Compliance, BitLocker, CIS Baseline Enforcement
-- **OS Deployment:** OSD / Task Sequences, Sysprep, Zero-Touch Enrollment, Enrollment Status Page (ESP), Autopilot Pre-Provisioning, WinPE
-- **Automation & Scripting:** PowerShell, Python, Microsoft Graph API, REST API Integration, PSAppDeployToolkit (packaged 77+ apps), Bash, GAM
-- **Infrastructure:** DNS, DHCP, VLANs, Active Directory, VMware vSphere, Cohesity Backup, SQL, SMTP, Load Balancing
-- **AI & Emerging Tech:** Local LLM Deployment, Multi-Agent Workflow Orchestration, AI Endpoint Governance, Docker, Linux VM Administration
+- **Identity & Access:** Entra ID (Azure AD), Identity and Access Management (IAM), Conditional Access, MFA, Hybrid & Cloud-Native AAD Join, Entra Application Proxy, Windows Hello for Business
+- **Endpoint Security:** Endpoint Security Policies, EDR Integration, Attack Surface Reduction, Device Compliance Policies, BitLocker Encryption, Vulnerability Remediation
+- **OS Deployment:** Operating System Deployment (OSD) / Task Sequences, Sysprep, Zero-Touch Enrollment, Autopilot Pre-Provisioning, Windows Update for Business (WUfB)
+- **Automation & Scripting:** PowerShell, Python, Microsoft Graph API, REST API Integration, PSAppDeployToolkit, Bash, Proactive Remediations
+- **Infrastructure:** DNS & DHCP, Network Segmentation (VLANs), Active Directory, Group Policy, VMware vSphere, Data Protection & Backup (Cohesity), Microsoft SQL Server
+- **AI & Emerging Tech:** Large Language Models (LLMs), AI Governance, Workflow Orchestration, Docker, Linux System Administration
 
 ---
 
@@ -65,6 +65,25 @@ Currently, I am actively building AI-assisted automation tooling applicable to e
 #### **Service Desk Analyst**
 *CompuCom | Dallas, TX | 2016*
 - Tier 1/2 remote and on-site technical support across enterprise client environments; configured VLANs for network segmentation.
+
+---
+
+### 🚀 Highlighted Infrastructure Projects
+
+#### **Automated Disaster Recovery (DR) & Cohesity Runbook Orchestration**
+*Jun 2026 – Present*
+- **Orchestration:** Designing and testing automated Cohesity Runbooks to orchestrate rapid, zero-touch failover and service restoration for tiered server workloads.
+- **Risk Mitigation:** Developing formal DR playbooks, verifying network mapping during replication states, and establishing backup compliance boundaries to protect against ransomware and infrastructure failures.
+
+#### **Enterprise Tiered Security: Windows Server LAPS Deployment**
+*May 2026 – Jun 2026*
+- **Security Impact:** Engineered the deployment of Windows LAPS across the enterprise server infrastructure. Enforced automatic, encrypted password rotation via Active Directory/Entra ID, effectively mitigating the risk of pass-the-hash attacks and lateral movement.
+- **Access Governance:** Structured precise RBAC (Role-Based Access Control) permissions to govern who can read and reset automated local administrator credentials.
+
+#### **Centralized Linux Infrastructure: Postfix SMTP Internal Relay**
+*Apr 2026 – Jun 2026*
+- **Architecture:** Designed and implemented a high-availability internal SMTP mail relay on Ubuntu Server utilizing Postfix. Configured secure relay rules, network access controls, and routing mechanisms to securely process automated notifications from appliances across 21 facilities.
+- **Optimization:** Eliminated the dependency on external cloud mail routes for internal system traffic, reducing external bandwidth utilization and optimizing network traffic flow.
 
 ---
 
