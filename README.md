@@ -139,5 +139,5 @@ Technical Security Research: Analyzed high-severity CVEs, including Remote Code 
 
 Feel free to explore the scripts in this repository to see my coding style and problem-solving approach. If you are looking for an engineer who can bridge the gap between systems administration and development, let's connect!
 
-[LinkedIn Profile](#) | [Email Me](mailto:akh073000@gmail.com)
+[LinkedIn Profile]([WWW.linkedin.com](https://www.linkedin.com/in/akh073000)) | [Email Me](mailto:akh073000@gmail.com)
 
