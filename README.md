@@ -32,6 +32,7 @@ Currently, I am actively building AI-assisted automation tooling applicable to e
 **Certifications:**
 - 🛡️ **CompTIA:** Security+, CySA+, PenTest+, Network+, A+, Project+
 - 🌐 **Google:** Cybersecurity Specialization
+- 🛡️ **ISC2** Systems Security Certified Practitioner (SSCP) 
 - 🚀 **Microsoft:** MD-102 (Microsoft 365 Certified: Endpoint Administrator Associate) - *In Progress (Summer 2026)*, MS-102 & AZ-104 - *In Progress*
 
 **Education:**
