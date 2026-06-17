@@ -7,11 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I am an Enterprise Endpoint and Systems Engineer with 9+ years of experience, including 2+ years as the primary MDM engineer for a 7,000-device, 21-facility environment managing five simultaneous platforms (**MECM/SCCM, Intune, JAMF, Meraki, and Nutanix AHV**). 
-
-I specialize in the Microsoft modern management stack (Entra ID, Conditional Access, Autopilot, Intune Proactive Remediations) and solving complex deployment challenges through **Microsoft Graph API automation via Python** and advanced **PowerShell** scripting. 
-
-Currently, I am actively building AI-assisted automation tooling applicable to enterprise AI governance and endpoint policy management.
+I specialize in the Microsoft modern management stack — Entra ID, Conditional Access, Autopilot, and Intune Proactive Remediations — and building the Python, PowerShell, and Graph API automation that eliminates manual process overhead at scale. Beyond production infrastructure, I research enterprise AI governance and local LLM deployment in a structured homelab environment, applying a security-first lens to emerging AI tooling.
 
 ---
 
@@ -33,7 +29,7 @@ Currently, I am actively building AI-assisted automation tooling applicable to e
 - 🛡️ **CompTIA:** Security+, CySA+, PenTest+, Network+, A+, Project+
 - 🌐 **Google:** Cybersecurity Specialization
 - 🛡️ **ISC2** Systems Security Certified Practitioner (SSCP) 
-- 🚀 **Microsoft:** MD-102 (Microsoft 365 Certified: Endpoint Administrator Associate) - *In Progress (Summer 2026)*, MS-102 & AZ-104 - *In Progress*
+- 🚀 **Microsoft:** MD-102 (Microsoft 365 Certified: Endpoint Administrator Associate) - *In Progress (Q3 2026)*
 
 **Education:**
 - **B.S., Computer & Information Systems Security / Information Assurance** (2021 – 2024)
@@ -43,7 +39,7 @@ Currently, I am actively building AI-assisted automation tooling applicable to e
 
 ### 💼 Professional Experience
 
-#### **Application Support Specialist — Endpoint & Systems Engineer**
+#### **Application Support Specialist (Endpoint & Identity Security Engineer)**
 *Grapevine-Colleyville ISD (GCISD) | Grapevine, TX | Aug 2024 – Present*
 - **Scale:** Primary MDM and application engineer for a 7,000+ endpoint enterprise environment (Windows, macOS, iOS, Android) across 21 facilities.
 - **Packaging:** Sole packaging engineer responsible for 50+ enterprise apps using PSADT (Adobe Suite, AutoDesk, specialized POS software).
@@ -59,9 +55,24 @@ Currently, I am actively building AI-assisted automation tooling applicable to e
 - **Technical Security Research:** Analyzed high-severity CVEs, including Remote Code Execution (RCE) in Erlang/OTP (CVSS 10.0) and privilege escalation risks in Windows service permissions.
 
 #### **Senior Technology Specialist**
-*Keller Independent School District | Keller, TX | 2016 – Aug 2024*
-- Administered SCCM/Intune, Entra ID, JAMF, and MDM platforms for massive Windows, macOS, iOS, and Android fleets over 8 years.
-- Managed Conditional Access policies, MFA enforcement, and M365/Exchange administration.
+*Keller Independent School District | Keller, TX | July 2019 – Aug 2024*
+
+- Delivered enterprise endpoint and campus infrastructure support across a large K-12 environment — progressively advancing from hardware and desktop support into MDM, identity administration, and systems engineering over an 8-year tenure. Administered SCCM/Intune, Entra ID, JAMF, Conditional Access, and MFA in later years; supported operational infrastructure including PrimeroEdge POS, FuelMaster, and Johnson Controls BAS.
+
+#### **Field Technician**
+
+-Foundational Enterprise Support: Delivered Tier 1/2 technical and desktop support for Windows client environments across a high-density, multi-facility WAN enterprise ecosystem.
+
+-Hardware Lifecycle & Diagnostics: Diagnosed, repaired, and maintained enterprise desktop, laptop, and peripheral fleets, utilizing Dell hardware certifications to ensure high operational uptime.
+
+-Deployment & Data Migration: Managed high-volume device imaging, OS deployment refreshes, and secure end-user data migrations during hardware lifecycle replacement cycles.
+
+-Trend Analysis & Root-Cause Resolution: Monitored ticket queues to identify recurring technical problem trends, performing proactive root-cause analysis to implement permanent software and hardware fixes.
+
+-Multi-Channel Escalation Support: Provided Tier 2 problem determination and resolution across remote, phone, and in-person channels, cleanly documenting resolutions to improve internal knowledge bases.
+
+Jun 2016 - Jul 2019 · 3 yrs 2 mos
+*Keller Independent School District | Keller, TX | June 2016 – July 2019*
 
 #### **Service Desk Analyst**
 *CompuCom | Dallas, TX | 2016*
