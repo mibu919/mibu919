@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Austin Harding
 
-**Senior Endpoint & Systems Engineer**  
+**Endpoint & Identity Security Engineer | Intune · Entra ID · M365 | SSCP · CySA+ · PenTest+**  
 📍 Dallas–Fort Worth, TX | ✉️ akh073000@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/akh073000)
 
 ---
