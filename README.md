@@ -7,6 +7,8 @@
 
 ### 👨‍💻 About Me
 
+I secure, automate, and modernize enterprise infrastructure at scale. With 9+ years of hands-on experience — including sole ownership of a 7,000-device, 21-facility environment running five simultaneous MDM platforms — my work sits at the intersection of endpoint engineering, identity governance, and security hardening.
+
 I specialize in the Microsoft modern management stack — Entra ID, Conditional Access, Autopilot, and Intune Proactive Remediations — and building the Python, PowerShell, and Graph API automation that eliminates manual process overhead at scale. Beyond production infrastructure, I research enterprise AI governance and local LLM deployment in a structured homelab environment, applying a security-first lens to emerging AI tooling.
 
 ---
