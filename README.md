@@ -64,15 +64,15 @@ I specialize in the Microsoft modern management stack — Entra ID, Conditional 
 #### **Field Technician**
 *Keller Independent School District | Keller, TX | June 2016 – July 2019*
 
--Foundational Enterprise Support: Delivered Tier 1/2 technical and desktop support for Windows client environments across a high-density, multi-facility WAN enterprise ecosystem.
+- **Foundational Enterprise Support:** Delivered Tier 1/2 technical and desktop support for Windows client environments across a high-density, multi-facility WAN enterprise ecosystem.
 
--Hardware Lifecycle & Diagnostics: Diagnosed, repaired, and maintained enterprise desktop, laptop, and peripheral fleets, utilizing Dell hardware certifications to ensure high operational uptime.
+- **Hardware Lifecycle & Diagnostics:*** Diagnosed, repaired, and maintained enterprise desktop, laptop, and peripheral fleets, utilizing Dell hardware certifications to ensure high operational uptime.
 
--Deployment & Data Migration: Managed high-volume device imaging, OS deployment refreshes, and secure end-user data migrations during hardware lifecycle replacement cycles.
+- **Deployment & Data Migration:** Managed high-volume device imaging, OS deployment refreshes, and secure end-user data migrations during hardware lifecycle replacement cycles.
 
--Trend Analysis & Root-Cause Resolution: Monitored ticket queues to identify recurring technical problem trends, performing proactive root-cause analysis to implement permanent software and hardware fixes.
+- **Trend Analysis & Root-Cause Resolution:** Monitored ticket queues to identify recurring technical problem trends, performing proactive root-cause analysis to implement permanent software and hardware fixes.
 
--Multi-Channel Escalation Support: Provided Tier 2 problem determination and resolution across remote, phone, and in-person channels, cleanly documenting resolutions to improve internal knowledge bases.
+- **Multi-Channel Escalation Support:** Provided Tier 2 problem determination and resolution across remote, phone, and in-person channels, cleanly documenting resolutions to improve internal knowledge bases.
 
 #### **Service Desk Analyst**
 *CompuCom | Dallas, TX | 2016*
