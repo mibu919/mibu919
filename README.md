@@ -59,14 +59,20 @@ I specialize in the Microsoft modern management stack — Entra ID, Conditional 
 #### **Senior Technology Specialist**
 *Keller Independent School District | Keller, TX | July 2019 – Aug 2024*
 
-- Delivered enterprise endpoint and campus infrastructure support across a large K-12 environment — progressively advancing from hardware and desktop support into MDM, identity administration, and systems engineering over an 8-year tenure. Administered SCCM/Intune, Entra ID, JAMF, Conditional Access, and MFA in later years; supported operational infrastructure including PrimeroEdge POS, FuelMaster, and Johnson Controls BAS.
+* Progressively advanced from operational/campus support into MDM, identity, and systems engineering as role scope expanded over a 5-year tenure.
+
+* Administered SCCM/Intune, Entra ID, JAMF, Conditional Access policies, and MFA enforcement in later years across Windows, macOS, iOS, and Android fleets.
+
+* Provided enterprise support for mission-critical operational infrastructure including PrimeroEdge POS, FuelMaster fuel management, and Johnson Controls BAS/HVAC systems.
+
+* Delivered Tier 2/3 escalation support and vendor coordination across hardware, software, and networking infrastructure.
 
 #### **Field Technician**
 *Keller Independent School District | Keller, TX | June 2016 – July 2019*
 
 - **Foundational Enterprise Support:** Delivered Tier 1/2 technical and desktop support for Windows client environments across a high-density, multi-facility WAN enterprise ecosystem.
 
-- **Hardware Lifecycle & Diagnostics:*** Diagnosed, repaired, and maintained enterprise desktop, laptop, and peripheral fleets, utilizing Dell hardware certifications to ensure high operational uptime.
+- **Hardware Lifecycle & Diagnostics:** Diagnosed, repaired, and maintained enterprise desktop, laptop, and peripheral fleets, utilizing Dell hardware certifications to ensure high operational uptime.
 
 - **Deployment & Data Migration:** Managed high-volume device imaging, OS deployment refreshes, and secure end-user data migrations during hardware lifecycle replacement cycles.
 
