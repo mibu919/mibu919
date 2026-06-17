@@ -62,6 +62,7 @@ I specialize in the Microsoft modern management stack — Entra ID, Conditional 
 - Delivered enterprise endpoint and campus infrastructure support across a large K-12 environment — progressively advancing from hardware and desktop support into MDM, identity administration, and systems engineering over an 8-year tenure. Administered SCCM/Intune, Entra ID, JAMF, Conditional Access, and MFA in later years; supported operational infrastructure including PrimeroEdge POS, FuelMaster, and Johnson Controls BAS.
 
 #### **Field Technician**
+*Keller Independent School District | Keller, TX | June 2016 – July 2019*
 
 -Foundational Enterprise Support: Delivered Tier 1/2 technical and desktop support for Windows client environments across a high-density, multi-facility WAN enterprise ecosystem.
 
@@ -72,9 +73,6 @@ I specialize in the Microsoft modern management stack — Entra ID, Conditional 
 -Trend Analysis & Root-Cause Resolution: Monitored ticket queues to identify recurring technical problem trends, performing proactive root-cause analysis to implement permanent software and hardware fixes.
 
 -Multi-Channel Escalation Support: Provided Tier 2 problem determination and resolution across remote, phone, and in-person channels, cleanly documenting resolutions to improve internal knowledge bases.
-
-Jun 2016 - Jul 2019 · 3 yrs 2 mos
-*Keller Independent School District | Keller, TX | June 2016 – July 2019*
 
 #### **Service Desk Analyst**
 *CompuCom | Dallas, TX | 2016*
