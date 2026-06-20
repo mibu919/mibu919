@@ -34,7 +34,7 @@ I specialize in the Microsoft modern management stack — Entra ID, Conditional 
 - 🚀 **Microsoft:** MD-102 (Microsoft 365 Certified: Endpoint Administrator Associate) - *In Progress (Q3 2026)*
 
 **Education:**
-- **B.S., Computer & Information Systems Security / Information Assurance** (2021 – 2024)
+- **B.S., Computer & Information Systems Security / Information Assurance** (April 2021 – September 2025)
   *Western Governors University*
 
 ---
